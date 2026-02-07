@@ -11,3 +11,4 @@ Página simples com links para minhas redes profissionais.
 
 ## 🔗 Acesse o site
 
+https://eryck-dev.github.io/minhas-redes-sociais/index.html
